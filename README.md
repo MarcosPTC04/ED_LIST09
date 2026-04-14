@@ -51,11 +51,11 @@ Tratamento de erros (lista cheia, vazia e posições inválidas)
 
 ▶️ Logs de Execução
 
-5 10 15 20
-10 15 20
-10 20
-Buscar 20: 1
-Tamanho: 2
+5 10 15 20  
+10 15 20  
+10 20  
+Buscar 20: 1  
+Tamanho: 2  
 
 ---
 
