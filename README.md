@@ -22,7 +22,8 @@ Define as operações da lista, como:
 Inserção (início, final ou posição específica)
 Remoção (início, final ou posição)
 Busca e consulta
-Verificações de estado (cheia, vazia, tamanho)
+Verificações de estado (cheia, vazia, tamanho)  
+
 🔹 Classe BookList
 
 Responsável por implementar a lista sequencial, contendo métodos de:
